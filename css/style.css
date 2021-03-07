@@ -1,0 +1,35 @@
+.perviy {
+    color:blue;
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.perviy:hover { 
+    color:red;
+    border: 1px solid black;
+    width: 200px;
+}
+
+.sss {
+    display: flex;
+}
+
+.sss div {
+    padding-right: 120px;
+}
+
+.sex {
+    color: rgb(255, 196, 0);
+    font-size: 102px;
+    font-family: fantasy;
+    position: absolute;
+    right: 50px;
+    
+
+}
+
+.sex:hover {
+    color:violet;
+    border: 2px solid whitesmoke;
+
+}
